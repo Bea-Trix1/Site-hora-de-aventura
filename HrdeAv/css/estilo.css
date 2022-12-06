@@ -1,0 +1,45 @@
+body {
+	background: ;
+     
+
+}
+
+
+p{
+	font-family: sans-serif;
+	font-size: 120%;
+	text-align: center;
+	background-color: #ffc500;
+}
+
+h1 {
+	background-color: #ffc500;
+}
+
+div{
+        width: 100px;
+        height: 100px;
+ }
+
+
+.texto{
+	font-size: 20px;
+	font-family: sans-serif;
+
+}
+
+.pg{
+	text-align: left;
+	font-family: sans-serif;
+	border-style: hidden;
+	font-size: 30px;
+	color: black;
+
+}
+
+h2{
+	font-size: 20px;
+    font-family: sans-serif;
+    background-color: whitesmoke;
+}
+
